@@ -7,4 +7,4 @@ the machine learning algorithm for the problem at hand.
 While working on performing Exploratory Data Analysis, it is important that we keep our objective in mind. Plotting fancy graphs is not the aim but 
 deriving useful insights is.
 
-The objective of this analysis is To find patterns within the dataset to gain further understanding of the data and leverage it to choose a machine learning algorithm for predicting the survival rates of patients who undergo the surgery.
+The objective of this analysis is To find patterns within the dataset to gain further understanding of the data and leverage it to choose a machine learning algorithm for predicting the shouse price in the given Califonia data set.
